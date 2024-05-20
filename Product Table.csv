@@ -1,0 +1,501 @@
+﻿Product_Id,Product_Category,Product_Quantity
+10101,electronics,1
+10201,electronics,2
+10301,home & garden,2
+10401,clothing,5
+10501,clothing,2
+10601,toys & games,2
+10701,toys & games,2
+10801,health & beauty,4
+10901,home & garden,4
+11001,health & beauty,4
+11101,toys & games,5
+11201,home & garden,3
+11301,home & garden,5
+11401,clothing,4
+11501,home & garden,5
+11601,home & garden,1
+11701,electronics,4
+11801,electronics,1
+11901,toys & games,3
+12001,clothing,2
+12101,health & beauty,4
+12201,toys & games,3
+12301,toys & games,1
+12401,toys & games,4
+12501,clothing,4
+12601,health & beauty,1
+12701,toys & games,4
+12801,health & beauty,5
+12901,health & beauty,1
+13001,home & garden,2
+13101,electronics,3
+13201,health & beauty,3
+13301,clothing,2
+13401,clothing,3
+13501,home & garden,1
+13601,home & garden,3
+13701,electronics,1
+13801,clothing,4
+13901,toys & games,2
+14001,home & garden,1
+14101,electronics,5
+14201,home & garden,5
+14301,home & garden,5
+14401,clothing,4
+14501,electronics,2
+14601,electronics,4
+14701,health & beauty,5
+14801,toys & games,3
+14901,electronics,3
+15001,health & beauty,3
+15101,home & garden,1
+15201,home & garden,2
+15301,health & beauty,4
+15401,toys & games,2
+15501,toys & games,1
+15601,toys & games,5
+15701,electronics,3
+15801,clothing,1
+15901,clothing,4
+16001,toys & games,3
+16101,clothing,2
+16201,home & garden,5
+16301,home & garden,5
+16401,health & beauty,2
+16501,clothing,5
+16601,health & beauty,3
+16701,toys & games,3
+16801,clothing,4
+16901,health & beauty,2
+17001,clothing,5
+17101,toys & games,4
+17201,toys & games,5
+17301,toys & games,1
+17401,health & beauty,5
+17501,clothing,3
+17601,toys & games,2
+17701,electronics,5
+17801,health & beauty,3
+17901,home & garden,5
+18001,toys & games,5
+18101,electronics,3
+18201,health & beauty,1
+18301,health & beauty,4
+18401,clothing,3
+18501,toys & games,4
+18601,home & garden,4
+18701,clothing,1
+18801,electronics,1
+18901,electronics,4
+19001,home & garden,1
+19101,clothing,2
+19201,electronics,4
+19301,clothing,2
+19401,electronics,5
+19501,home & garden,3
+19601,health & beauty,3
+19701,clothing,3
+19801,clothing,4
+19901,clothing,4
+20001,clothing,3
+20101,electronics,5
+20201,health & beauty,1
+20301,health & beauty,5
+20401,home & garden,5
+20501,electronics,3
+20601,home & garden,4
+20701,home & garden,3
+20801,clothing,4
+20901,clothing,4
+21001,electronics,5
+21101,electronics,3
+21201,clothing,5
+21301,toys & games,1
+21401,toys & games,4
+21501,toys & games,4
+21601,toys & games,5
+21701,health & beauty,1
+21801,health & beauty,4
+21901,electronics,3
+22001,toys & games,1
+22101,electronics,1
+22201,health & beauty,3
+22301,toys & games,1
+22401,clothing,5
+22501,health & beauty,4
+22601,health & beauty,2
+22701,health & beauty,4
+22801,clothing,1
+22901,home & garden,4
+23001,home & garden,1
+23101,health & beauty,2
+23201,toys & games,4
+23301,toys & games,5
+23401,electronics,2
+23501,electronics,5
+23601,electronics,1
+23701,toys & games,1
+23801,home & garden,3
+23901,home & garden,5
+24001,home & garden,2
+24101,electronics,2
+24201,home & garden,4
+24301,toys & games,1
+24401,clothing,1
+24501,home & garden,1
+24601,electronics,3
+24701,electronics,3
+24801,electronics,3
+24901,health & beauty,2
+25001,clothing,3
+25101,electronics,3
+25201,toys & games,3
+25301,toys & games,5
+25401,health & beauty,2
+25501,health & beauty,1
+25601,clothing,1
+25701,electronics,1
+25801,electronics,5
+25901,clothing,1
+26001,toys & games,2
+26101,clothing,1
+26201,toys & games,3
+26301,health & beauty,1
+26401,home & garden,3
+26501,home & garden,2
+26601,health & beauty,4
+26701,health & beauty,2
+26801,health & beauty,2
+26901,clothing,2
+27001,home & garden,3
+27101,home & garden,1
+27201,home & garden,5
+27301,health & beauty,2
+27401,electronics,5
+27501,health & beauty,5
+27601,home & garden,1
+27701,clothing,2
+27801,toys & games,4
+27901,electronics,1
+28001,health & beauty,4
+28101,clothing,1
+28201,health & beauty,1
+28301,health & beauty,5
+28401,toys & games,5
+28501,electronics,3
+28601,electronics,4
+28701,clothing,3
+28801,home & garden,1
+28901,home & garden,4
+29001,electronics,5
+29101,clothing,4
+29201,health & beauty,1
+29301,toys & games,5
+29401,clothing,2
+29501,electronics,5
+29601,toys & games,5
+29701,health & beauty,3
+29801,health & beauty,2
+29901,electronics,2
+30001,electronics,3
+30101,clothing,2
+30201,toys & games,2
+30301,electronics,3
+30401,electronics,4
+30501,home & garden,2
+30601,home & garden,4
+30701,health & beauty,4
+30801,electronics,4
+30901,toys & games,3
+31001,clothing,2
+31101,health & beauty,2
+31201,home & garden,5
+31301,health & beauty,3
+31401,home & garden,2
+31501,electronics,2
+31601,health & beauty,3
+31701,electronics,5
+31801,electronics,1
+31901,health & beauty,1
+32001,health & beauty,2
+32101,toys & games,4
+32201,clothing,1
+32301,clothing,3
+32401,electronics,2
+32501,toys & games,2
+32601,clothing,5
+32701,toys & games,5
+32801,health & beauty,2
+32901,clothing,4
+33001,health & beauty,2
+33101,home & garden,1
+33201,health & beauty,1
+33301,home & garden,1
+33401,toys & games,4
+33501,clothing,5
+33601,health & beauty,2
+33701,electronics,4
+33801,health & beauty,2
+33901,toys & games,1
+34001,health & beauty,5
+34101,toys & games,2
+34201,toys & games,3
+34301,health & beauty,5
+34401,clothing,3
+34501,toys & games,2
+34601,home & garden,1
+34701,health & beauty,1
+34801,clothing,2
+34901,home & garden,2
+35001,home & garden,1
+35101,health & beauty,1
+35201,clothing,1
+35301,toys & games,5
+35401,electronics,4
+35501,home & garden,3
+35601,clothing,5
+35701,home & garden,4
+35801,toys & games,4
+35901,health & beauty,1
+36001,clothing,2
+36101,clothing,1
+36201,clothing,2
+36301,home & garden,2
+36401,electronics,3
+36501,electronics,3
+36601,home & garden,2
+36701,clothing,1
+36801,toys & games,4
+36901,clothing,4
+37001,health & beauty,5
+37101,toys & games,1
+37201,toys & games,2
+37301,health & beauty,3
+37401,clothing,2
+37501,home & garden,3
+37601,electronics,2
+37701,home & garden,4
+37801,health & beauty,5
+37901,toys & games,1
+38001,home & garden,4
+38101,electronics,4
+38201,health & beauty,5
+38301,clothing,1
+38401,electronics,4
+38501,electronics,2
+38601,electronics,2
+38701,electronics,1
+38801,electronics,5
+38901,clothing,5
+39001,clothing,1
+39101,electronics,5
+39201,electronics,5
+39301,health & beauty,3
+39401,electronics,1
+39501,health & beauty,2
+39601,clothing,2
+39701,health & beauty,4
+39801,health & beauty,5
+39901,clothing,5
+40001,toys & games,2
+40101,clothing,2
+40201,toys & games,5
+40301,clothing,2
+40401,health & beauty,4
+40501,electronics,4
+40601,health & beauty,2
+40701,clothing,3
+40801,electronics,4
+40901,health & beauty,1
+41001,electronics,1
+41101,home & garden,3
+41201,electronics,3
+41301,toys & games,3
+41401,health & beauty,4
+41501,toys & games,3
+41601,electronics,4
+41701,toys & games,2
+41801,electronics,5
+41901,toys & games,2
+42001,clothing,2
+42101,electronics,1
+42201,electronics,1
+42301,home & garden,1
+42401,health & beauty,5
+42501,home & garden,3
+42601,electronics,3
+42701,toys & games,5
+42801,home & garden,3
+42901,toys & games,2
+43001,health & beauty,1
+43101,home & garden,5
+43201,clothing,2
+43301,home & garden,2
+43401,electronics,2
+43501,clothing,1
+43601,toys & games,5
+43701,home & garden,2
+43801,clothing,2
+43901,clothing,2
+44001,health & beauty,1
+44101,clothing,1
+44201,electronics,3
+44301,electronics,5
+44401,toys & games,4
+44501,home & garden,3
+44601,health & beauty,4
+44701,electronics,5
+44801,clothing,3
+44901,health & beauty,5
+45001,health & beauty,3
+45101,toys & games,4
+45201,toys & games,5
+45301,electronics,1
+45401,electronics,1
+45501,toys & games,1
+45601,toys & games,3
+45701,home & garden,2
+45801,electronics,3
+45901,clothing,3
+46001,electronics,4
+46101,clothing,3
+46201,health & beauty,4
+46301,home & garden,2
+46401,clothing,2
+46501,health & beauty,3
+46601,toys & games,3
+46701,home & garden,1
+46801,home & garden,4
+46901,clothing,5
+47001,clothing,5
+47101,home & garden,1
+47201,health & beauty,1
+47301,electronics,3
+47401,health & beauty,2
+47501,electronics,3
+47601,health & beauty,3
+47701,electronics,2
+47801,electronics,4
+47901,toys & games,3
+48001,clothing,4
+48101,health & beauty,5
+48201,electronics,5
+48301,toys & games,4
+48401,health & beauty,2
+48501,toys & games,1
+48601,clothing,1
+48701,home & garden,1
+48801,toys & games,5
+48901,health & beauty,1
+49001,electronics,2
+49101,clothing,4
+49201,toys & games,5
+49301,health & beauty,2
+49401,clothing,5
+49501,electronics,5
+49601,toys & games,2
+49701,home & garden,1
+49801,toys & games,4
+49901,home & garden,5
+50001,clothing,4
+50101,clothing,5
+50201,clothing,4
+50301,health & beauty,4
+50401,electronics,3
+50501,toys & games,5
+50601,electronics,1
+50701,electronics,1
+50801,home & garden,1
+50901,electronics,4
+51001,clothing,4
+51101,electronics,1
+51201,electronics,1
+51301,home & garden,4
+51401,clothing,5
+51501,health & beauty,3
+51601,electronics,1
+51701,clothing,2
+51801,clothing,5
+51901,clothing,5
+52001,toys & games,4
+52101,health & beauty,5
+52201,health & beauty,1
+52301,toys & games,5
+52401,clothing,2
+52501,clothing,4
+52601,toys & games,3
+52701,toys & games,1
+52801,clothing,5
+52901,electronics,4
+53001,toys & games,2
+53101,clothing,1
+53201,home & garden,1
+53301,clothing,4
+53401,home & garden,2
+53501,toys & games,1
+53601,toys & games,2
+53701,toys & games,5
+53801,toys & games,2
+53901,electronics,4
+54001,electronics,4
+54101,toys & games,3
+54201,toys & games,1
+54301,health & beauty,1
+54401,toys & games,3
+54501,clothing,3
+54601,toys & games,5
+54701,electronics,1
+54801,health & beauty,1
+54901,home & garden,5
+55001,clothing,5
+55101,home & garden,3
+55201,health & beauty,3
+55301,home & garden,1
+55401,electronics,4
+55501,toys & games,5
+55601,health & beauty,4
+55701,home & garden,1
+55801,health & beauty,3
+55901,toys & games,3
+56001,clothing,3
+56101,home & garden,3
+56201,home & garden,3
+56301,health & beauty,2
+56401,clothing,3
+56501,toys & games,2
+56601,toys & games,2
+56701,home & garden,1
+56801,clothing,3
+56901,clothing,2
+57001,clothing,5
+57101,electronics,3
+57201,toys & games,2
+57301,electronics,1
+57401,home & garden,4
+57501,home & garden,1
+57601,electronics,3
+57701,health & beauty,4
+57801,home & garden,1
+57901,toys & games,4
+58001,clothing,4
+58101,health & beauty,2
+58201,electronics,2
+58301,toys & games,4
+58401,clothing,3
+58501,home & garden,1
+58601,electronics,3
+58701,clothing,1
+58801,toys & games,4
+58901,electronics,4
+59001,electronics,1
+59101,health & beauty,4
+59201,home & garden,4
+59301,clothing,1
+59401,electronics,1
+59501,home & garden,1
+59601,health & beauty,2
+59701,toys & games,3
+59801,home & garden,5
+59901,health & beauty,1
+60001,electronics,5
